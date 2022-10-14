@@ -1,0 +1,26 @@
+"10000", "Sa-art
+", "IT Manager
+", "IT-Planning" ,30000],
+"10001", "Sakol
+","Programmer
+, "IT Planning",13000],
+"10002", "Savitree", "Admin
+", "IT-Planning" ,10000,
+", "Support
+"80001" , "Satid
+", "User support
+" , 11000],
+"80002", "Saxinee ", "project Coordinator","IT-Planning",13000],
+"80003" , "Saithip ", "Admin
+", "Support
+", 10000,
+"10003", "sartra
+", "User Support
+, "Support
+", 11000],
+"10004", "Sasikarn", "System Analyst
+, "IT-Planning",15000,
+"80004", "Sasaluk ", "System Analyst
+"IT-Planning", 15000,
+"10005", "Samaporn", "Programmer
+", "IT-Planning" , 13000));
